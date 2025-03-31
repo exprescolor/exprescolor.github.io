@@ -1,0 +1,16 @@
+{
+  "name": "exprescolor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@browserify/uglifyify": "^6.0.0",
+    "node-id3": "github:exprescolor/node-id3"
+  }
+}
